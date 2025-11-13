@@ -1,16 +1,13 @@
-## Hi there 👋
+### 🚀 OIT-SHENZHEN-01 - Operator in Training
 
-<!--
-**Dopybbs/Dopybbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Mission :* Devenir une force de la nature technologique. Fusionner la rigueur académique et la férocité technique des élites.
 
-Here are some ideas to get you started:
+*Spécialisations en cours :*
+- 🐍 Python Avancé (Automatisation, Data, IA)
+- 🔌 Hardware & Embedded Systems (Arduino/ESP32)
+- 🧠 Intelligence Artificielle & Machine Learning
+- 🐧 Maîtrise de l'environnement Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Projet Alpha (En développement) :* Station météo connectée avec ESP32 et Python.
+
+"L'ordre et la discipline dans le code commencent par l'ordre et la discipline sur le disque dur."
